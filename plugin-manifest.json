@@ -1,0 +1,8 @@
+{
+  "platform": "creator",
+  "version": "1.0",
+  "widget_type": "page",
+  "name": "LoginWidget",
+  "description": "A modern glassmorphism login widget with background image",
+  "index": "index.html"
+}
